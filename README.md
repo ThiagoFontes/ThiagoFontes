@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Engineer passionate by mobile develop, especially with Flutter!
+I'm a Computer Engineer passionate by mobile development, especially with Flutter!
 I love to share knwoledge and it is in my plans to produce more articles, live coding and videos to the community.
 
 To build well writen code that is easy to maintain is my main goal for that I use Clean Architeture, TDD, SOLID and various design patterns. I'm also a team worker and will be always looking foward to meet all objectives of the team.
