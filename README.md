@@ -9,8 +9,6 @@ To build well writen code that is easy to maintain is my main goal for that I us
 
 - Linkedin: https://www.linkedin.com/in/fontesthiago/
 - Medium: https://medium.com/@ThiagoSFontes
-- Twitch: https://www.twitch.tv/t_fontes
-- Youtube: To be released soon!
 
 [![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFontes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
